@@ -1,5 +1,5 @@
 # Beginner-project-solutions
-Solution to find out whether a number is Armstrong or not
+Python3 solution to find out whether a number is Armstrong or not
 
 n=int(input ("enter a number:")) 
 l=len(str(n)) 
